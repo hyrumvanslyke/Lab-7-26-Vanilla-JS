@@ -1,3 +1,3 @@
 # Lab-7-26-Vanilla-JS
 
-This lab focused on using vanilla java script to build a website that kept tarack of a movie list.
+This lab focused on using Vanilla JS to build a website that kept track of a movie list.
